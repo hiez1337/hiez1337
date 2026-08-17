@@ -93,11 +93,7 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiez1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=hiez1337&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiez1337&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
 </div>
 
