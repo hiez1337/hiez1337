@@ -86,11 +86,12 @@
 
 ---
 
-### 📊 Статистика активности на GitHub
+### 📊 Активность на GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hiez1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="hiez1337 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiez1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=7AA2F7&label=Public%20Repositories&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhiez1337&style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/github/stars/hiez1337/TeleClean?style=for-the-badge&color=BB9AF7&label=TeleClean%20Stars&logo=github" alt="TeleClean Stars" />
+  <img src="https://img.shields.io/github/stars/hiez1337/Small-Demo-Manager?style=for-the-badge&color=7DCFFF&label=Small--Demo--Manager%20Stars&logo=github" alt="Demo Manager Stars" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
