@@ -95,7 +95,7 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiez1337&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=hiez1337&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
 </div>
 
 ---
